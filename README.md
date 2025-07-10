@@ -10,8 +10,9 @@
 
 -   Free software: MIT License
 -   Documentation: https://HasTarC0d3.github.io/Has9_pkg1
-    
+
 
 ## Features
 
--   TODO
+-   Creat interactie maps with minimum lines of code
+-   Gret tool for GIS
