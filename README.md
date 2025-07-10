@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://HasTarC0d3.github.io/Has9_pkg1
-    
+
 
 ## Features
 
