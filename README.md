@@ -14,4 +14,5 @@
 
 ## Features
 
--   TODO
+-   Creat interactie maps with minimum lines of code
+-   Gret tool for GIS
