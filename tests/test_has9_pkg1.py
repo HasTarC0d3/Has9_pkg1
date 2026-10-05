@@ -2,7 +2,6 @@
 
 """Tests for `has9_pkg1` package."""
 
-
 import unittest
 
 from has9_pkg1 import has9_pkg1
